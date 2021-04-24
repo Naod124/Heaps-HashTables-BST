@@ -20,7 +20,7 @@ public class AVL {
         
         }
     
-
+    }
     private Node root;
 
 
