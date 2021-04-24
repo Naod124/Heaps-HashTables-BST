@@ -19,7 +19,7 @@ public class AVL {
             height = 0;
         
         }
-    }
+    
 
     private Node root;
 
