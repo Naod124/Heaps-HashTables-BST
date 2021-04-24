@@ -18,7 +18,8 @@ public class AVL {
             data = n;
             height = 0;
         
-    
+        }
+    }
 
     private Node root;
 
